@@ -10,7 +10,7 @@ This program calculates the amount of federal tax to be paid based on your incom
 The purpose of this assignment was to create a tax calculator with a new programming language - Java.
 
 <!-- {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.} -->
-Youtube Demonstration:  [Software Demo Video](https://youtu.be/ZaC45Sl7I8Q)
+Youtube Demonstration:  [Software Demo Video](https://youtu.be/Nlxdrhg_PNY)
  
 # Development Environment
 
