@@ -32,7 +32,7 @@ I used Java to write the program. I also imported Scanner to allow for user inpu
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+<!-- {Make a list of things that you need to fix, improve, and add in the future.} -->
 
 - In the future, I can inclue calculations depending on the state of residency.
 - I can also include medicare and social security taxes based on the state.
